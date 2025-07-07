@@ -18,6 +18,6 @@ BASIC OSINT, kullanıcı dostu arayüze sahip, terminal tabanlı bir bilgi topla
 ```bash
 git clone https://github.com/kullaniciadiniz/basic-osint
 cd basic-osint
-python Basic\ Osint.py
+python BasicOsint.py
 ```
  Gerekli kütüphaneler ilk açılışta otomatik yüklenir. Senin ekstra bir şey yapmana gerek yok. :)
