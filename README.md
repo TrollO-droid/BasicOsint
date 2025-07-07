@@ -1,1 +1,5 @@
-## Basic Osint Tool
+## BasicOsint Tool
+
+### 🚀 Basit ama Güçlü Bilgi Toplama Aracı
+
+## 📌 Özellikler
