@@ -13,4 +13,7 @@ BASIC OSINT, kullanıcı dostu arayüze sahip, terminal tabanlı bir bilgi topla
 - 🔐 **Rastgele Şifre Üretici**
 - ❌ **Çıkış**
 
-  ---
+---
+## 🛠️ Kurulum
+
+ Gerekli kütüphaneler ilk açılışta otomatik yüklenir. Senin ekstra bir şey yapmana gerek yok. :)
